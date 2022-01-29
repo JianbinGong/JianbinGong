@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Job Searchng and an insurance optimize project<br>
-🌱 I’m currently learning Go
+🌱 I’m currently learning Go<br>
+Seeking a full-time software engineer position with an expected start on 06/2022. Master’s candidate with strong, analytical, managerial skills, with a wide range of industry-level project experience, including web and android application development, 5+ years of internet industry experience, strong knowledge of the business operation, and programming skills in Java, Python, C, C++, Go, Database SQL, HTML, CSS, and JavaScript.
