@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Job Searchng and an insurance optimize project
+🔭 I’m currently working on Job Searchng and an insurance optimize project<br>
 🌱 I’m currently learning Go
